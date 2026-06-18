@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dtn7ucp2rwr1i"]
+
+[ext_resource type="Script" uid="uid://bsiwpcyjagdeb" path="res://Scens/studioMain.gd" id="1_j7dab"]
+
+[node name="Studio" type="Node3D" unique_id=1048044956]
+script = ExtResource("1_j7dab")
